@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("hello git123");
         System.out.println("hello git456");
+        System.out.println("push test");
     }
 }
